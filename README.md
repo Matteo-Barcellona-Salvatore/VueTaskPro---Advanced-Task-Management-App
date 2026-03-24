@@ -18,9 +18,6 @@ Vue 3 • TypeScript • Pinia • Vue Router • Tailwind CSS • Chart.js • 
 ##  Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/YOUR_USERNAME/vue-task-pro.git
-cd vue-task-pro
 
 # Install dependencies
 npm install
